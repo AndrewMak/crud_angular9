@@ -1,0 +1,9 @@
+.home {
+    font-size: 3em;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;    
+}
